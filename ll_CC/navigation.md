@@ -22,6 +22,7 @@
 [Windows](pages/windows.md)
 [Android](pages/android.md)
 [iOS](pages/ios.md)
+[macOS](pages/macos.md)
 [路由器](pages/router.md)
 [游戏](pages/game.md)
 
