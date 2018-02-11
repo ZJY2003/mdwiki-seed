@@ -20,7 +20,7 @@
 
 步骤如图
 
-![lyq](http://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/lyq.png)
+![lyq](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/lyq.png)
 
 ## 选择主/备节点
 
@@ -30,4 +30,4 @@
 
 再到下面点击设置按钮 设置好后点击  应用本页面设置
 
-![lyq2](http://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/lyq2.png)
+![lyq2](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/lyq2.png)
