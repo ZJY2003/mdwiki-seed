@@ -10,7 +10,7 @@
 
 (如果net4.0报错请用net2.0)
 
-![win1](http://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/win1.png)
+![win1](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/win1.png)
 
 ## 设置程序
 
@@ -22,13 +22,13 @@
 
 系统代理模式--PAC模式
 
-![win2](http://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/win2.png)
+![win2](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/win2.png)
 
 ### 设置开机自启
 
 选项设置--开机启动--确定
 
-![win2](http://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/win2_2.png)
+![win2](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/win2_2.png)
 
 ## 导入节点
 
@@ -36,7 +36,7 @@
 
 登陆网站复制订阅链接(内含节点地址密码)
 
-![win3](http://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/win3.png)
+![win3](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/win3.png)
 
 服务器订阅--SSR服务器订阅设置--Add--网址
 
@@ -44,7 +44,7 @@
 
 点击  服务器订阅--更新SSR服务器订阅(不通过代理)  更新节点
 
-![win4](http://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/win4.png)
+![win4](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/win4.png)
 
 ## 选择节点
 
