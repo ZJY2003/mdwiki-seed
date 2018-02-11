@@ -12,11 +12,11 @@
 
 点击右下角  设置按钮--SSR订阅--SSR订阅管理
 
-![tap1](http://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/tap1.png)
+![tap1](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/tap1.png)
 
 在URL栏目粘贴订阅链接 点击添加 然后关闭窗口
 
-![tap2](http://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/tap2.png)
+![tap2](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/tap2.png)
 
 窗口关闭后软件会自动更新节点
 
@@ -24,12 +24,12 @@
 
 下拉代理栏目选择你需要的节点
 
-![tap3](http://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/tap3.png)
+![tap3](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/tap3.png)
 
 ## 设置代理模式
 
 下拉模式栏目 选择你需要的代理规则
 
-![tap4](http://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/tap4.png)
+![tap4](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/tap4.png)
 
 点击连接后即可开始游戏
